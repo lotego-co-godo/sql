@@ -1,0 +1,1 @@
+--example: create index idx_product_description on product(description)
